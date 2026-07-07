@@ -21,37 +21,41 @@ int main() {
         mostrarMenuPrincipal(saldo);
         opcionMenu = leerOpcionMenu();
 
-        switch (opcionMenu) {
-            case 1:
-                juegoDados(saldo);
-                break;
+       switch (opcionMenu) {
+    case 1:
+        juegoDados(saldo);
+        break;
 
-            case 2:
-                juegoTragamonedas(saldo);
-                break;
+    case 2:
+        juegoTragamonedas(saldo);
+        break;
 
-            case 3:
-                juegoRuleta(saldo);
-                break;
+    case 3:
+        juegoRuleta(saldo);
+        break;
 
-            case 4:
-                verHistorial();
-                break;
+    case 4:
+        juegoBlackjack(saldo);
+        break;
 
-            case 5:
-                agregarFondos(saldo);
-                break;
+    case 5:
+        verHistorial();
+        break;
 
-            case 6:
-                salirCasino(saldo);
-                programaActivo = false;
-                break;
+    case 6:
+        agregarFondos(saldo);
+        break;
 
-            default:
-                cout << "Opcion invalida. Regresando al menu principal." << endl;
-                break;
-        }
+    case 7:
+        salirCasino(saldo);
+        programaActivo = false;
+        break;
+
+    default:
+        cout << "Opcion invalida. Regresando al menu principal." << endl;
+        break;
+}
+
     }
-
-    return 0;
+return 0;
 }

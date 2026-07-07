@@ -1,0 +1,576 @@
+Juego: Dados
+Apuesta/Costo: 10 fichas
+Resultado: Perdio
+Ganancia/Perdida: -10 fichas
+Saldo final: 10 fichas
+----------------------------------------
+Juego: Dados
+Apuesta/Costo: 10 fichas
+Resultado: Perdio
+Ganancia/Perdida: -10 fichas
+Saldo final: 0 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 109 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 118 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 127 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 136 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 145 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 154 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 163 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 172 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 181 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 190 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 199 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 208 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 217 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 226 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 235 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 244 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 253 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 262 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 271 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 280 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 289 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 298 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 307 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 316 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 325 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 334 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 343 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 352 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 361 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 370 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 379 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 388 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 397 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 406 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 415 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 424 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 433 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 442 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 451 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 460 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 9 fichas
+Saldo final: 469 fichas
+----------------------------------------
+Juego: Dados
+Apuesta/Costo: 10 fichas
+Resultado: Perdio
+Ganancia/Perdida: -10 fichas
+Saldo final: 459 fichas
+----------------------------------------
+Juego: Dados
+Apuesta/Costo: 5 fichas
+Resultado: Perdio
+Ganancia/Perdida: -5 fichas
+Saldo final: 454 fichas
+----------------------------------------
+Juego: Ruleta
+Apuesta/Costo: 20 fichas
+Resultado: Perdio
+Ganancia/Perdida: -20 fichas
+Saldo final: 434 fichas
+----------------------------------------
+Juego: Ruleta
+Apuesta/Costo: 10 fichas
+Resultado: Perdio
+Ganancia/Perdida: -10 fichas
+Saldo final: 424 fichas
+----------------------------------------
+Juego: Dados
+Apuesta/Costo: 5 fichas
+Resultado: Perdio
+Ganancia/Perdida: -5 fichas
+Saldo final: 5 fichas
+----------------------------------------
+Juego: Dados
+Apuesta/Costo: 5 fichas
+Resultado: Perdio
+Ganancia/Perdida: -5 fichas
+Saldo final: 0 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 99 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 100 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 99 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 100 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 99 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 100 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 101 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 102 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 103 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 104 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 103 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 102 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 103 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 102 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 101 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 100 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 101 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 100 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 101 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 102 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 101 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 102 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 103 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 104 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 105 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 104 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 105 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 106 fichas
+----------------------------------------
+Juego: Ruleta
+Apuesta/Costo: 10 fichas
+Resultado: Perdio
+Ganancia/Perdida: -10 fichas
+Saldo final: 96 fichas
+----------------------------------------
+Juego: Ruleta
+Apuesta/Costo: 10 fichas
+Resultado: Perdio
+Ganancia/Perdida: -10 fichas
+Saldo final: 86 fichas
+----------------------------------------
+Juego: Blackjack
+Apuesta/Costo: 5 fichas
+Resultado: Empate
+Ganancia/Perdida: 0 fichas
+Saldo final: 50 fichas
+----------------------------------------
+Juego: Blackjack
+Apuesta/Costo: 5 fichas
+Resultado: Gano
+Ganancia/Perdida: 5 fichas
+Saldo final: 55 fichas
+----------------------------------------
+Juego: Blackjack
+Apuesta/Costo: 5 fichas
+Resultado: Gano
+Ganancia/Perdida: 5 fichas
+Saldo final: 60 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 59 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 60 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 61 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 62 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 63 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 64 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 63 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 62 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Gano
+Ganancia/Perdida: 1 fichas
+Saldo final: 63 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 62 fichas
+----------------------------------------
+Juego: Tragamonedas
+Apuesta/Costo: 1 fichas
+Resultado: Perdio
+Ganancia/Perdida: -1 fichas
+Saldo final: 61 fichas
+----------------------------------------
+Juego: Dados
+Apuesta/Costo: 5 fichas
+Resultado: Gano
+Ganancia/Perdida: 5 fichas
+Saldo final: 66 fichas
+----------------------------------------
+Juego: Dados
+Apuesta/Costo: 6 fichas
+Resultado: Perdio
+Ganancia/Perdida: -6 fichas
+Saldo final: 60 fichas
+----------------------------------------
+Juego: Ruleta
+Apuesta/Costo: 10 fichas
+Resultado: Perdio
+Ganancia/Perdida: -10 fichas
+Saldo final: 50 fichas
+----------------------------------------

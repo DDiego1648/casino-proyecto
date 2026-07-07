@@ -59,21 +59,22 @@ void mostrarMenuPrincipal(int saldo) {
     cout << "1. Dados" << endl;
     cout << "2. Tragamonedas" << endl;
     cout << "3. Ruleta" << endl;
-    cout << "4. Historial" << endl;
-    cout << "5. Agregar fondos" << endl;
-    cout << "6. Salir" << endl;
+    cout << "4. Blackjack" << endl;
+    cout << "5. Historial" << endl;
+    cout << "6. Agregar fondos" << endl;
+    cout << "7. Salir" << endl;
     cout << "============================================" << endl;
 }
 
 int leerOpcionMenu() {
     int opcionMenu = 0;
 
-    while (opcionMenu < 1 || opcionMenu > 6) {
+    while (opcionMenu < 1 || opcionMenu > 7) {
         cout << "Seleccione una opcion: ";
         cin >> opcionMenu;
 
-        if (opcionMenu < 1 || opcionMenu > 6) {
-            cout << "Opcion invalida. Debe seleccionar una opcion entre 1 y 6." << endl;
+        if (opcionMenu < 1 || opcionMenu > 7) {
+            cout << "Opcion invalida. Debe seleccionar una opcion entre 1 y 7." << endl;
             cout << endl;
         }
     }
