@@ -9,10 +9,11 @@
 using namespace std;
 
 #include "menu.h"
-#include "dado.h"
+#include "dados.h"
 #include "tragamonedas.h"
 #include "ruleta.h"
 #include "historial.h"
 #include "utilidades.h"
+#include "blackjack.h"
 
 #endif
