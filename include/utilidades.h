@@ -19,4 +19,8 @@ int generarNumeroAleatorio(int minimo, int maximo);
 int cargarSaldoGuardado();
 void guardarSaldoActual(int saldo);
 
+int leerEntero(const char mensaje[]);
+int leerEnteroMayorQueCero(const char mensaje[]);
+int leerEnteroEnRango(const char mensaje[], int minimo, int maximo);
+
 #endif

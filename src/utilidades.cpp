@@ -62,3 +62,56 @@ void guardarSaldoActual(int saldo) {
         cout << "Error al guardar el saldo." << endl;
     }
 }
+int leerEntero(const char mensaje[]) {
+    int numero;
+    bool valido = false;
+
+    while (valido == false) {
+        cout << mensaje;
+        cin >> numero;
+
+        if (cin.fail()) {
+            cin.clear();
+            cin.ignore(1000, '\n');
+
+            cout << "Entrada invalida. Debe ingresar un numero." << endl;
+        }
+        else {
+            valido = true;
+        }
+    }
+
+    return numero;
+}
+
+int leerEnteroMayorQueCero(const char mensaje[]) {
+    int numero = 0;
+
+    while (numero <= 0) {
+        numero = leerEntero(mensaje);
+
+        if (numero <= 0) {
+            cout << "Valor invalido. Debe ser mayor que cero." << endl;
+        }
+    }
+
+    return numero;
+}
+
+int leerEnteroEnRango(const char mensaje[], int minimo, int maximo) {
+    int numero;
+
+    while (true) {
+        numero = leerEntero(mensaje);
+
+        if (numero >= minimo && numero <= maximo) {
+            return numero;
+        }
+
+        cout << "Valor invalido. Debe estar entre ";
+        cout << minimo;
+        cout << " y ";
+        cout << maximo;
+        cout << "." << endl;
+    }
+}

@@ -24,7 +24,10 @@ void juegoRuleta(int &saldo) {
 
         while (validarApuesta(apuesta, saldo, APUESTA_MIN_RULETA) == false) {
             cout << "Ingrese la apuesta minima de " << APUESTA_MIN_RULETA << " fichas: ";
-            cin >> apuesta;
+            apuesta =
+    leerEntero(
+        "Ingrese la apuesta para ruleta: "
+    );
 
             if (validarApuesta(apuesta, saldo, APUESTA_MIN_RULETA) == false) {
                 cout << "Apuesta invalida." << endl;
@@ -36,7 +39,12 @@ void juegoRuleta(int &saldo) {
 
         while (numeroUsuario < 1 || numeroUsuario > 10) {
             cout << "Ingrese un numero del 1 al 10: ";
-            cin >> numeroUsuario;
+            numeroUsuario =
+    leerEnteroEnRango(
+        "Ingrese un numero del 1 al 10: ",
+        1,
+        10
+    );
 
             if (numeroUsuario < 1 || numeroUsuario > 10) {
                 cout << "Numero invalido. Debe estar entre 1 y 10." << endl;

@@ -29,7 +29,10 @@ void juegoBlackjack(int &saldo) {
 
         while (validarApuesta(apuesta, saldo, APUESTA_MIN_BLACKJACK) == false) {
             cout << "Ingrese la apuesta minima de " << APUESTA_MIN_BLACKJACK << " fichas: ";
-            cin >> apuesta;
+            apuesta =
+    leerEntero(
+        "Ingrese la apuesta para Blackjack: "
+    );
 
             if (validarApuesta(apuesta, saldo, APUESTA_MIN_BLACKJACK) == false) {
                 cout << "Apuesta invalida." << endl;

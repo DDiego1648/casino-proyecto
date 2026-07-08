@@ -24,7 +24,10 @@ void juegoDados(int &saldo) {
 
         while (validarApuesta(apuesta, saldo, APUESTA_MIN_DADOS) == false) {
             cout << "Ingrese la apuesta minima de " << APUESTA_MIN_DADOS << " fichas: ";
-            cin >> apuesta;
+            apuesta =
+    leerEntero(
+        "Ingrese la apuesta para dados: "
+    );
 
             if (validarApuesta(apuesta, saldo, APUESTA_MIN_DADOS) == false) {
                 cout << "Apuesta invalida." << endl;
